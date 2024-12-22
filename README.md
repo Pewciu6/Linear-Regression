@@ -1,1 +1,1 @@
-This project consists of creating a linear regression from scratch, also I have included some data to practically test it. Link to wikipedia to learn a bit more: https://en.wikipedia.org/wiki/Linear_regression
+This project consists of creating a linear regression as well as logistic regression from scratch, also I have included some data to practically test it. Link to wikipedia to learn a bit more: https://en.wikipedia.org/wiki/Linear_regression https://en.wikipedia.org/wiki/Logistic_regression
